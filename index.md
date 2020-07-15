@@ -8,7 +8,7 @@ last_modified_date: 2020-07-15T17:54:08+0000
 ---
 
 # Behavior Atlas: 
-{: .fs-6 }
+{: .fs-9 }
 
 Behavior Atlas is a parallel, multi-layered framework for animal's motion feature decomposition, which provides an objective metric for mapping behavior into its feature space. We used a three-dimensional (3D) animal pose estimation technology that combines machine vision and machine learning to show that our framework can unsupervisedly decompose unconstrained animal behavior into behavioral phenotypes. 
 {: .fs-6 .fw-300 }
