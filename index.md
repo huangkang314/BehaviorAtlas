@@ -13,7 +13,7 @@ last_modified_date: 2020-07-15T17:54:08+0000
 Behavior Atlas is a parallel, multi-layered framework for animal's motion feature decomposition, which provides an objective metric for mapping behavior into its feature space. We used a three-dimensional (3D) animal pose estimation technology that combines machine vision and machine learning to show that our framework can unsupervisedly decompose unconstrained animal behavior into behavioral phenotypes. 
 {: .fs-6 .fw-300 }
 
-![RUNOOB fig1](https://github.com/huangkang314/BehaviorAtlas/blob/master/imgs/fig1.svg "Figure1")
+![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://behavioratlas.netlify.app/imgs/fig1.svg "Figure1")
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/huangkang314/HierBehaveTome){: .btn .fs-5 .mb-4 .mb-md-0 }
 
