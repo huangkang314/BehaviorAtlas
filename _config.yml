@@ -16,7 +16,7 @@
 title: Behavior Atlas
 description: A framework aims to decompose animal behavior into metrizable movement modules
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://huangkang314.github.io/BehaviorAtlas" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://behavioratlas.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -57,7 +57,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Behavior Atlas":
-    - "https://huangkang314.github.io/BehaviorAtlas/"
+    - "https://behavioratlas.netlify.app/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
