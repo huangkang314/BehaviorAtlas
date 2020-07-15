@@ -15,12 +15,18 @@ Behavior Atlas is a parallel, multi-layered framework for animal's motion featur
 
 ![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://behavioratlas.netlify.app/imgs/fig1.svg "Figure1")
 
+<video controls="controls">
+  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition%20demo.mp4"></source>
+  <source type="video/webm" src="filename.webm"></source>
+  <p>Video 1</p>
+</video>
+
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/huangkang314/HierBehaveTome){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 ## Introdution
 
-Comprehensive quantification of animal behavior is crucial for understanding the relationship between brain and behavior. However, this remains a challenge due to the high-dimensionality and large temporal variability of rodent behavior. Here, with the inspiration of animal behavior’s natural structure, we addressed this challenge by proposing a parallel, multi-layered framework for motion feature decomposition, which provides an objective metric for mapping behavior into its feature space. We used a three-dimensional (3D) animal pose estimation technology that combines machine vision and machine learning to show that our framework can unsupervisedly decompose unconstrained animal behavior into behavioral phenotypes. Finally, we demonstrated our framework by providing an “autistic-like behavior space” that can robustly identify the transgenic mice disease model without human supervision. These results suggest that our framework has a broad range of applications, including animal disease model phenotyping, neural circuits, and behavior relationship modeling, etc.
+Comprehensive quantification of animal behavior is crucial for understanding the relationship between brain and behavior...
 
 
 ## Getting started
@@ -75,7 +81,7 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ## About the project
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
+
 
 ### License
 
@@ -83,8 +89,6 @@ Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/j
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
 
 #### Thank you to the contributors of Just the Docs!
 
