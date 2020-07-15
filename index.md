@@ -17,7 +17,6 @@ Behavior Atlas is a parallel, multi-layered framework for animal's motion featur
 
 <video controls="controls">
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition%20demo.mp4"></source>
-  <source type="video/webm" src="filename.webm"></source>
   <p>Video 1</p>
 </video>
 video
