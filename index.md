@@ -7,13 +7,13 @@ permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
-# Focus on writing good documentation
+# Behavior Atlas: A framework aims to decompose animal behavior into metrizable movement modules
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Behavior Atlas is a parallel, multi-layered framework for motion feature decomposition, which provides an objective metric for mapping behavior into its feature space. We used a three-dimensional (3D) animal pose estimation technology that combines machine vision and machine learning to show that our framework can unsupervisedly decompose unconstrained animal behavior into behavioral phenotypes. 
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/huangkang314/HierBehaveTome){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
