@@ -20,6 +20,7 @@ Behavior Atlas is a parallel, multi-layered framework for animal's motion featur
   <source type="video/webm" src="filename.webm"></source>
   <p>Video 1</p>
 </video>
+video
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/huangkang314/HierBehaveTome){: .btn .fs-5 .mb-4 .mb-md-0 }
 
