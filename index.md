@@ -60,9 +60,6 @@ Video2 | Decomposition demo of 15-minute experimental data collected in a featur
 We examined the video clips in each group, post-hoc manually labeled annotated as running, trotting, stepping, sniffing, rising, right turning, up stretching, falling, left turning, walking.   
 
 ---
-## Introdution
-
-Comprehensive quantification of animal behavior is crucial for understanding the relationship between brain and behavior...
 
 
 
@@ -73,7 +70,7 @@ Comprehensive quantification of animal behavior is crucial for understanding the
 
 ### License
 
-Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+Behavior Atlas is distributed by an [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 ### Contributing
 
