@@ -23,7 +23,8 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4"></source>
   Your browser does not support the video tag.
 </video>
-Download this video 
+
+Download this [Video1-3D_Capture_and_recons_demo.mp4](http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4) 
 
 
 ![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://behavioratlas.netlify.app/imgs/fig1.svg "Figure1")
