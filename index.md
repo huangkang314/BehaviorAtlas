@@ -15,9 +15,9 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
 
 ## Features
 ### 1. The real 3D reconstruction of animal poses with a high signal-to-noise ratio 
-- a. Image streams are captured from four cameras with different 2D views; 
+- a. Capturing Image streams from four cameras with different 2D views; 
 - b. Using <a href="https://github.com/DeepLabCut/DeepLabCut" target="_blank">DeepLabCut</a> (DLC) to track animal body parts and generate 2D skeletal trajectories separately (color-coded traces); 
-- c. reconstructing 3D body skeleton by integrating these four data streams
+- c. Reconstructing 3D body skeleton by integrating these four data streams
 
 
 ![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://behavioratlas.netlify.app/imgs/fig1.svg "Figure1")
