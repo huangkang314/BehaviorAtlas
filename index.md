@@ -17,7 +17,7 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
 ### 1. The real 3D reconstruction of animal poses with a high signal-to-noise ratio 
 - a. Capturing Image streams from four cameras with different 2D views; 
 - b. Using <a href="https://github.com/DeepLabCut/DeepLabCut" target="_blank">DeepLabCut</a> (DLC) to track animal body parts and generate 2D skeletal trajectories separately (color-coded traces); 
-- c. Reconstructing 3D body skeleton by integrating these four data streams
+- c. Reconstructing 3D body skeleton by integrating these four data streams (based on <a href="https://github.com/SwathiSheshadri/pose3d" target="_blank">pose3d</a>).
 
 
 Download this video (11.6Mb) <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4" target="_blank">Video1-3D_Capture_and_recons_demo.mp4</a>
