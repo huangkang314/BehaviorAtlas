@@ -53,7 +53,9 @@ We demonstrate our framework in 15-minute experimental data collected in a featu
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
 </video>
 
-Video2 | 3D reconstruction demo video, Download this video <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4" target="_blank">Video2-decomposition_demo.mp4 (68.2Mb)</a>
+Video2 | Decomposition demo of 15-minute experimental data collected in a featureless circular open-filed <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4" target="_blank">Video2-decomposition_demo.mp4 (68.2Mb)</a> (CQI: Clustering Quality Index helps us determine the stereotyped/non-stereotyped movements. CQI is evaluated by integrated  the intra-cluster and inter-cluster correlation coefficients. Larger CQI indicates more stereotyped movement segment)
+
+
 
 We examined the video clips in each group, post-hoc manually labeled annotated as running, trotting, stepping, sniffing, rising, right turning, up stretching, falling, left turning, walking.   
 
