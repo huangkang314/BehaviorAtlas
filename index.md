@@ -15,7 +15,7 @@ Behavior Atlas is a parallel, multi-layered framework for animal's motion featur
 
 ![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://behavioratlas.netlify.app/imgs/fig1.svg "Figure1")
 
-<video width="auto" controls="controls">
+<video width="700" controls="controls">
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition%20demo.mp4"></source>
 </video>
 
