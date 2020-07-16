@@ -20,13 +20,16 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
 - c. Reconstructing 3D body skeleton by integrating these four data streams
 
 <video width="720" controls="controls">
-  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D Capture and recons demo.mp4"></source>
+  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4"></source>
+  Your browser does not support the video tag.
 </video>
+Download this video 
+
 
 ![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://behavioratlas.netlify.app/imgs/fig1.svg "Figure1")
 
 <video width="720" controls="controls">
-  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition%20demo.mp4"></source>
+  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
 </video>
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/huangkang314/HierBehaveTome){: .btn .fs-5 .mb-4 .mb-md-0 }
