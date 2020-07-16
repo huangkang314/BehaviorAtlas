@@ -13,6 +13,13 @@ last_modified_date: 2020-07-15T17:54:08+0000
 ## Introdution
 Behavior Atlas is a spatio-temporal decomposition framework for automatically detecting behavioral phenotypes. It receives 3D/2D continuous multidimensional motion features data input, and unsupervisedly decompose it into understandable behavioral modules/movements (e.g., walking, running, rearing). Our framework emphasizes the extraction of the temporal dynamics of movements. Without making model assumptions, similar movements with various time durations and temporal variability can be efficiently detected. Besides the decomposition, the constructed self-similarity matrix of these movement segments describes the structure of involved movements. Further dimensionality reduction and visualization enable us construct the feature space of behavior. This helps us study the evolution of movement sequences for higher-order behavior and behavioral state transition caused by neural activity. 
 
+## Features
+### 1. The real 3D reconstruction of animal poses with a high signal-to-noise ratio 
+- a. Image streams are captured from four cameras with different 2D views; 
+- b. Using ([DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)) DLC to track animal body parts and generate 2D skeletal trajectories separately (color-coded traces); 
+- c. reconstructing 3D body skeleton by integrating these four data streams
+
+
 ![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://behavioratlas.netlify.app/imgs/fig1.svg "Figure1")
 
 <video width="720" controls="controls">
