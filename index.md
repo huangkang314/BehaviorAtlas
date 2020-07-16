@@ -47,11 +47,15 @@ Figure3 | Spatio-temporal decomposition framework for animal behavior analysis.
 
 ### 3. Mapping Mouse Movements with Low-Dimensional Embeddings and Unsupervised Clustering
 
+We demonstrate our framework in 15-minute experimental data collected in a featureless circular open-filed. Thus, we obtained 11 types (determined by <a href="https://pubmed.ncbi.nlm.nih.gov/27818791" target="_blank">Bayesian Information Criterion</a> ) of movement. 
+
 <video width="720" controls="controls">
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
 </video>
 
+Video2 | 3D reconstruction demo video, Download this video <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4" target="_blank">Video2-decomposition_demo.mp4 (68.2Mb)</a>
 
+We examined the video clips in each group, post-hoc manually labeled annotated as running, trotting, stepping, sniffing, rising, right turning, up stretching, falling, left turning, walking.   
 
 ---
 ## Introdution
