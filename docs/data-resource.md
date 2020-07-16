@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Data Formate
-nav_order: 3
+title: Data Resource
+nav_order: 4
 ---
 
-# Data Formate
+# Data Resource
 {: .no_toc }
 
 Coming soon...
@@ -17,4 +17,5 @@ Coming soon...
 {:toc}
 
 ---
+
 
