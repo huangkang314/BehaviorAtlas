@@ -23,15 +23,12 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4"></source>
   Your browser does not support the video tag.
 </video>
-
 Video1 | 3D reconstruction demo video, Download this video <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4" target="_blank">Video1-3D_Capture_and_recons_demo.mp4 (11.6Mb)</a>
 
 ![The pipeline of 3D animal skeletal reconstruction](https://behavioratlas.netlify.app/imgs/3Dpipeline.svg "Figure1") 
-
 Figure1 | The pipeline of 3D animal skeletal reconstruction. 
 
 ![representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction](https://behavioratlas.netlify.app/imgs/3DskeletalTrace.png "Figure2") 
-
 Figure2 | Representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction. 
 
 ### 2. Parallel and two-layer framework for motion feature decomposition.
