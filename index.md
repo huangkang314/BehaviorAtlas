@@ -21,7 +21,7 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
 - b. Using <a href="https://github.com/DeepLabCut/DeepLabCut" target="_blank">DeepLabCut</a> (DLC) to track animal body parts and generate 2D skeletal trajectories separately (color-coded traces); 
 - c. Reconstructing 3D body skeleton by integrating these four data streams (based on <a href="https://github.com/SwathiSheshadri/pose3d" target="_blank">pose3d</a>).
 
-<video width="720" controls="controls">
+<video width="100%" height = "auto" controls="controls">
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4"></source>
   Your browser does not support the video tag.
 </video>
@@ -49,7 +49,7 @@ Figure3 | Spatio-temporal decomposition framework for animal behavior analysis.
 
 We demonstrate our framework in 15-minute experimental data collected in a featureless circular open-filed. Thus, we obtained 11 types (determined by <a href="https://pubmed.ncbi.nlm.nih.gov/27818791" target="_blank">Bayesian Information Criterion</a> ) of movement. 
 
-<video width="720" controls="controls">
+<video width="100%" height = "auto" controls="controls">
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
 </video>
 
