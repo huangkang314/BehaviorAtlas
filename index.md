@@ -36,12 +36,14 @@ Figure2 | Representative (900s) mouse body tracking trace data showing with 48 d
 
 ### 2. Parallel and two-layer framework for motion feature decomposition.
 
-There are many similar previous works 
+There are many similar previous works such as <a href="https://github.com/gordonberman/MotionMapper" target="_blank">MotionMapper</a>, <a href="http://datta.hms.harvard.edu/research/behavioral-analysis" target="_blank">Moseq</a> were used to detect stereotyped movement modules on flies or mice. Our framework focus on address the high-dimensionality and large temporal variability of rodent behavior. we adopted a parallel motion decomposition strategy following the natural characteristics of animal motion. That is, two-layer dynamic temporal decomposition is performed on the continuous animal skeleton postural data to obtain Non-locomotor movement (NM) space. Finally, together with locomotion dimension, unsupervised clustering is used to reveal the structure of behavior.
+
+![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://behavioratlas.netlify.app/imgs/fig1.svg "Figure3")
+
+Figure3 | Spatio-temporal decomposition framework for animal behavior analysis. 
 
 
-
-
-![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://behavioratlas.netlify.app/imgs/fig1.svg "Figure2")
+### 3. Mapping Mouse Movements with Low-Dimensional Embeddings and Unsupervised Clustering
 
 <video width="720" controls="controls">
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
@@ -55,55 +57,7 @@ There are many similar previous works
 Comprehensive quantification of animal behavior is crucial for understanding the relationship between brain and behavior...
 
 
-## Getting started
 
-### Dependencies
-
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
-
-### Quick start: Use as a GitHub Pages remote theme
-
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
-
-### Local installation: Use the gem-based theme
-
-1. Install the Ruby Gem
-```bash
-$ gem install just-the-docs
-```
-```yaml
-# .. or add it to your your Jekyll site’s Gemfile
-gem "just-the-docs"
-```
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-```yaml
-theme: "just-the-docs"
-```
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-```bash
-$ bundle exec just-the-docs rake search:init
-```
-3. Run you local Jekyll server
-```bash
-$ jekyll serve
-```
-```bash
-# .. or if you're using a Gemfile (bundler)
-$ bundle exec jekyll serve
-```
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
-
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
-
----
 
 ## About the project
 
