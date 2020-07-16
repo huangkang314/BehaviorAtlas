@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Tutorials
-nav_order: 3
+title: Getting started
+nav_order: 2
 ---
 
-# Tutorials
+# Getting started
 {: .no_toc }
 
 
