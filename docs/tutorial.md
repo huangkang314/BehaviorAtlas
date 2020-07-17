@@ -27,38 +27,37 @@ addpath(genPath)
 
 ### Define the data path
 
-Change your demo data path and name by assigning varibles ``filepath`` and ``fileName``.
+Change your demo data path and name by assigning variables `filepath` and `fileName`.
 
 ``` 
 %% get filename
-filepath = 'Z:\hanyaning\BehaviorAtlas_version_control\data\three_d';
+filepath = '.\data';
 fileName = 'demo_single_Data3d.mat';
 ```
 
 ### Define the video path
 
-Change your demo video path and name by assigning varibles ``videopath`` and ``videoName``. This step only 
+Change your demo video path and name by assigning variables `videopath` and `videoName`. This step only need to provide any of the four captured videos for subsequent viewing of the decomposition results.
 
 ```
-%% get videoname
-videopath = 'Z:\hanyaning\BehaviorAtlas_version_control\data\videos';
+videopath = '.\data';
 videoName = 'demo_single_Data3d.avi';
 ```
 
-### Import dataset from varibles ``filepath`` and ``fileName``.
+### Import dataset
+Import the dataset by using the import_3d function
 
-```MATLAB
-%% Import dataset
-clear global
+```
 global BeA
 data_3d_name = [filepath,'\',fileName];
 import_3d(data_3d_name);
 ```
 
-### Import video information from varibles ``videopath`` and ``videoName``.
+### Import video information 
 
-```MATLAB
-%% Import dataset
+Import video information by assigning variables `videopath` and `videoName`.
+
+```
 video_name = [videopath,'\',videoName];
 import_video(video_name);
 ```
