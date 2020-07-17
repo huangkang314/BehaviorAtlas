@@ -141,11 +141,18 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
   </tbody>
 </table>
 
+The 15-minute experimental data were decomposed into 936 NM bouts, and embedded these bouts in a low-D space:
+- a. Firstly, a 936×936 segment kernel matrix was constructed using the DTAK metric. This segment kernel matrix can flexibly represent the relationship and provide valuable insights between each behavioral component sequence in their feature space.
+- b. Because of the high-dimensionality of behavior, we adopted an algorithm called UMAP which can preserve both local and global structure of the dataset. Provide us a 2D embeddings of these NM segments.
+- c. The combination of 2D NM space and motion dimension provide a 3D movements space representation.
 
+<video width="100%" height = "auto" controls="controls">
+  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
+</video>
+
+Video3 | Spatio-temporal feature space of behavioral components <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4" target="_blank">Video3-cluster_embeddings.mp4 (14.6Mb)</a> 
 
 ---
-
-
 
 
 ## About the project
