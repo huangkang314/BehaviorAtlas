@@ -69,66 +69,66 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
     <tbody>
       <tr>
         <td>
-          <video width="20%" height = "auto" controls="controls">
+          <video width="100%" height = "auto" controls="controls">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="20%" height = "auto" controls="controls">
+          <video width="100%" height = "auto" controls="controls">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="20%" height = "auto" controls="controls">
+          <video width="100%" height = "auto" controls="controls">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="20%" height = "auto" controls="controls">
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
-          </video>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <video width="20%" height = "auto" controls="controls">
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
-          </video>
-        </td>
-        <td>
-          <video width="20%" height = "auto" controls="controls">
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
-          </video>
-        </td>
-        <td>
-          <video width="20%" height = "auto" controls="controls">
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
-          </video>
-        </td>
-        <td>
-          <video width="20%" height = "auto" controls="controls">
+          <video width="100%" height = "auto" controls="controls">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
           </video>
         </td>
       </tr>
       <tr>
         <td>
-          <video width="20%" height = "auto" controls="controls">
+          <video width="100%" height = "auto" controls="controls">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="20%" height = "auto" controls="controls">
+          <video width="100%" height = "auto" controls="controls">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="20%" height = "auto" controls="controls">
+          <video width="100%" height = "auto" controls="controls">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="20%" height = "auto" controls="controls">
+          <video width="100%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <video width="100%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="100%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="100%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="100%" height = "auto" controls="controls">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
           </video>
         </td>
