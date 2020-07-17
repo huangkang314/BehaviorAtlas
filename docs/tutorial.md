@@ -90,7 +90,10 @@ body_alignment(BA);
 ```
 
 The function of `body_alignment` firstly aligns the back points of all the mice skeletons then it aligns the vector from the back point to the tail root point of all the mice skeletons. The alignment results are plotted below.
-![62cb508935249c88a338760f409c48e2.svg+xml](en-resource://database/527:0)
+
+![Body alignment](https://behavioratlas.netlify.app/imgs/BodyAlign.svg "Figure3") 
+
+Figure2 | An example of body alignment
 
 ###  Features Selection
 
@@ -130,7 +133,10 @@ BeA_DecParam.L2.Ini = 'p'; % Initialization method
 behavior_decomposing(BeA_DecParam);
 ```
 
-Finally, the function of `behavior_decomposing`  cuts the continuous time series of mice skeletion in poses and movements segments then clustering them in low demension embedding. The poses embedding (left) and movements embedding (right) are plotted below. More detail analysis could be found in our paper. 
-![8323869fd6d085182d50ecfeb742f15f.svg+xml](en-resource://database/533:0)
+Finally, the function of `behavior_decomposing`  decomposes the continuous time series of mice skeletion in poses and movements segments then clustering them in low demension embedding. The poses embedding (left) and movements embedding (right) are plotted below. More detail analysis could be found in our paper. 
+
+![Embeddings of poses and movements](https://behavioratlas.netlify.app/imgs/pose&mvEmbedding.svg "Figure3") 
+
+Figure3 | Embeddings of poses and movements
 
 
