@@ -72,7 +72,10 @@ artifact_correction(method, WinWD);
 ```
 
 The raw data and preprocessed data in BeA struct are filtered by above method and are plotted below.  
-![0d899c3075bcd8e632cdf21b637868a0.svg+xml]
+
+![Artifact correction ](https://behavioratlas.netlify.app/imgs/ArtificialCorrection.svg "Figure1") 
+
+Figure1 | An example of artifact correction . 
 
 ### Body alignment
 

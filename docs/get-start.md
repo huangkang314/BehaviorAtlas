@@ -21,7 +21,7 @@ nav_order: 2
 - 8GB Minimum RAM for single experimental data (~ 20mins); For batch analysis of large amount of data, recommended 64GB or more;
 
 **Software:** 
-- MATLAB 2016 or higher vision;
+- MATLAB 2016 or higher version;
 
 **Dependencies:**
 
