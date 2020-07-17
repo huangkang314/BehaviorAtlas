@@ -57,12 +57,17 @@ Video2 | Decomposition demo of 15-minute experimental data collected in a featur
 
 We examined the video clips in each group, post-hoc manually labeled annotated as running, trotting, stepping, sniffing, rising, right turning, up stretching, falling, left turning, walking.   
 
+<div class="primary col-md-8 col-sm-12 col-xs-12" id="introduction">
+
+
+</div>
+
 Video1 | <video width="20%" height = "auto" controls="controls">
-  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
+  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
 </video> 
 
 Video2 | <video width="20%" height = "auto" controls="controls">
-  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
+  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/2-running.mp4"></source>
 </video> 
 
 ---
