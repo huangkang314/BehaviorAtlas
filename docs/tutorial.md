@@ -74,7 +74,7 @@ artifact_correction(method, WinWD);
 The raw data and preprocessed data in BeA struct are filtered by above method and are plotted below.  
 ![0d899c3075bcd8e632cdf21b637868a0.svg+xml]
 
-#### 7. Body alignment. 
+### 7. Body alignment. 
 
 ```
 BA.Cen = 1;
