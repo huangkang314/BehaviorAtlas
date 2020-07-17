@@ -87,7 +87,57 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
           </video>
         </td>
       </tr>
-      
+      <tr>
+        <th>Stepping</th>
+        <th>Falling</th>
+        <th>Diving</th>
+        <th>Right turning</th>
+      </tr>
+      <tr>
+        <td>
+          <video width="100%" height = "auto" controls preload="auto">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/5-diving.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="100%" height = "auto" controls preload="auto">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/6-right_turning.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="100%" height = "auto" controls preload="auto">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/7-stepping.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="100%" height = "auto" controls preload="auto">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/8-falling.mp4"></source>
+          </video>
+        </td>
+      </tr>
+      <tr>
+        <th>Trotting</th>
+        <th>Left turning</th>
+        <th>Walking</th>
+      </tr>
+      <tr>
+        <td>
+          <video width="100%" height = "auto" controls>
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/9-trotting.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="100%" height = "auto" controls autoplay="auto">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/10-left_turning.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="100%" height = "auto" controls autoplay="auto">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/11-walking.mp4"></source>
+          </video>
+        </td>
+        <td> </td>
+      </tr>
   </tbody>
 </table>
 
