@@ -98,12 +98,9 @@ body_parts = BeA.DataInfo.Skl;
 nBodyParts = length(body_parts);
 weight = ones(1, nBodyParts);
 featNames = body_parts';
-selection = [1,1,1,1,1,1,1,1,...
-            1,1,1,1,1,1,1,1,...
-            1,1,1,1,1,1,1,1,...
-            1,1,1,1,1,1,1,1,...
-            1,1,1,1,0,0,1,1,...
-            0,1,0,0,0,0,0,0];
+selection = [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,...
+            1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,...
+            1,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0];
 for i = 1:nBodyParts
     BeA_DecParam.FS(i).featNames = body_parts{i};
     BeA_DecParam.FS(i).weight = weight(i);
@@ -111,10 +108,10 @@ end
 BeA_DecParam.selection = selection;
 ```
 ### Behavior Decomposing. 
-This section defines two sets of of parameters corresponding to poses and movements decomposition respectively.
+This section defines two sets of of parameters corresponding to two layers (poses and movements) decomposition respectively.
 
 ``` 
-%% Aanlysis -> Behavior Decomposing
+%% 
 % BeA_SegParam.L1
 BeA_DecParam.L1.ralg = 'merge';
 BeA_DecParam.L1.redL = 5;
