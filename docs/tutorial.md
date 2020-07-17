@@ -74,7 +74,7 @@ artifact_correction(method, WinWD);
 The raw data and preprocessed data in BeA struct are filtered by above method and are plotted below.  
 ![0d899c3075bcd8e632cdf21b637868a0.svg+xml]
 
-### 7. Body alignment. 
+### Body alignment
 
 ```
 BA.Cen = 1;
@@ -89,7 +89,7 @@ body_alignment(BA);
 The function of `body_alignment` firstly aligns the back points of all the mice skeletons then it aligns the vector from the back point to the tail root point of all the mice skeletons. The alignment results are plotted below.
 ![62cb508935249c88a338760f409c48e2.svg+xml](en-resource://database/527:0)
 
-###  Features Selection. 
+###  Features Selection
 
 The variable ``selection``  is a 1x48 vector and indicate the selection time series of mice skeletion which are arranged as [X1,Y1,Z1,X2,Y2,Z2,...,Xn,Yn,Zn].
 
@@ -107,11 +107,10 @@ for i = 1:nBodyParts
 end
 BeA_DecParam.selection = selection;
 ```
-### Behavior Decomposing. 
+### Behavior Decomposing
 This section defines two sets of of parameters corresponding to two layers (poses and movements) decomposition respectively.
 
 ``` 
-%% 
 % BeA_SegParam.L1
 BeA_DecParam.L1.ralg = 'merge';
 BeA_DecParam.L1.redL = 5;

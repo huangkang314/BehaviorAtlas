@@ -26,7 +26,7 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
   Your browser does not support the video tag.
 </video>
 
-Video1 | 3D reconstruction demo video, Download this video <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4" target="_blank">Video1-3D_Capture_and_recons_demo.mp4 (11.6Mb)</a>
+Video1 | 3D reconstruction demo video, Download this video <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4" target="_blank">Video1-3D_Capture_and_recons_demo.mp4 (11.6MB)</a>
 
 ![The pipeline of 3D animal skeletal reconstruction](https://behavioratlas.netlify.app/imgs/3Dpipeline.svg "Figure1") 
 
@@ -53,7 +53,7 @@ We demonstrate our framework in 15-minute experimental data collected in a featu
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
 </video>
 
-Video2 | Decomposition demo of 15-minute experimental data collected in a featureless circular open-filed <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4" target="_blank">Video2-decomposition_demo.mp4 (68.2Mb)</a> (CQI: Clustering Quality Index helps us determine the stereotyped/non-stereotyped movements. CQI is evaluated by integrated  the intra-cluster and inter-cluster correlation coefficients. Larger CQI indicates more stereotyped movement segment)
+Video2 | Decomposition demo of 15-minute experimental data collected in a featureless circular open-filed <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4" target="_blank">Video2-decomposition_demo.mp4 (68.2MB)</a> (CQI: Clustering Quality Index helps us determine the stereotyped/non-stereotyped movements. CQI is evaluated by integrated  the intra-cluster and inter-cluster correlation coefficients. Larger CQI indicates more stereotyped movement segment)
 
 We examined the video clips in each group, post-hoc manually labeled annotated as running, trotting, stepping, sniffing, rising, right turning, up stretching, falling, left turning, walking.   
 
@@ -150,7 +150,7 @@ The 15-minute experimental data were decomposed into 936 NM bouts, and embedded 
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4"></source>
 </video>
 
-Video3 | Spatio-temporal feature space of behavioral components <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4" target="_blank">Video3-cluster_embeddings.mp4 (14.6Mb)</a> 
+Video3 | Spatio-temporal feature space of behavioral components <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4" target="_blank">Video3-cluster_embeddings.mp4 (14.6MB)</a> 
 
 ---
 
