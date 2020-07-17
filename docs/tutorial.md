@@ -15,7 +15,7 @@ nav_order: 3
 
 ---
 
-This tutorial provides the full procedure of Behavior Atlas (BeA) framework. The MATLAB script of BeA was written in section, which could be run in substep. Demo data was attached to Data Resource. Download demo data and open `'run.m'` of BeA in MATLAB, then you could enjoy BeA by this turorial !
+This tutorial provides the full procedure of Behavior Atlas (BeA) framework. The MATLAB script of BeA was written in section, which could be run in substep. Demo data was attached to Data Resource. Download demo data and open `run.m` of BeA in MATLAB, then you could enjoy BeA by this turorial !
 
 ### Add BeA path to MATLAB working path.
 
@@ -25,9 +25,11 @@ genPath = genpath('./');
 addpath(genPath)
 ```
 
-### Change your demo data path and name of varibles ``filepath`` and ``fileName``.
+### Define path of your data
 
-```MATLAB
+Change your demo data path and name by assigning varibles ``filepath`` and ``fileName``.
+
+``` MATLAB
 %% get filename
 filepath = 'Z:\hanyaning\BehaviorAtlas_version_control\data\three_d';
 fileName = 'demo_single_Data3d.mat';
