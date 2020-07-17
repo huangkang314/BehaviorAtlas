@@ -17,13 +17,15 @@ nav_order: 3
 
 ### Prerequisites
 
-#### Hardware: 
-8GB Minimum RAM for single experimental data (~ 20mins); For batch analysis of large amount of data, recommended 64GB or more;
+**Hardware:** 
+- 8GB Minimum RAM for single experimental data (~ 20mins); For batch analysis of large amount of data, recommended 64GB or more;
 
-#### Software: 
-MATLAB 2016 or higher vision;
+**Software:** 
+- MATLAB 2016 or higher vision;
 
-#### Dependencies
+**Dependencies:**
+
+
 
 ``` prerequisites
 clear all
