@@ -84,7 +84,7 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       <tr>
         <th>Sniffing</th>
         <th>Diving</th>
-        <th>Turning</th>
+        <th>Right turning</th>
       </tr>
       <tr>
         <td>
