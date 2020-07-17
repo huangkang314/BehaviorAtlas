@@ -66,17 +66,17 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       </tr>
       <tr>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls preload="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/1-up_stretching.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls preload="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/2-running.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls preload="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/3-rising.mp4"></source>
           </video>
         </td>
@@ -88,17 +88,17 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       </tr>
       <tr>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls preload="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/4-sniffing.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls preload="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/5-diving.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls preload="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/6-right_turning.mp4"></source>
           </video>
         </td>
@@ -110,17 +110,17 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       </tr>
       <tr>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls preload="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/7-stepping.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls preload="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/8-falling.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls preload="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/9-trotting.mp4"></source>
           </video>
         </td>
@@ -132,12 +132,12 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       </tr>
       <tr>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls autoplay="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/10-left_turning.mp4"></source>
           </video>
         </td>
         <td>
-          <video width="100%" height = "auto" controls autoplay="none">
+          <video width="100%" height = "auto" controls autoplay="auto">
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/11-walking.mp4"></source>
           </video>
         </td>
