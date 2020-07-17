@@ -147,7 +147,7 @@ The 15-minute experimental data were decomposed into 936 NM bouts, and embedded 
 - c. The combination of 2D NM space and motion dimension provide a 3D movements space representation.
 
 <video width="100%" height = "auto" controls="controls">
-  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
+  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4"></source>
 </video>
 
 Video3 | Spatio-temporal feature space of behavioral components <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4" target="_blank">Video3-cluster_embeddings.mp4 (14.6Mb)</a> 
