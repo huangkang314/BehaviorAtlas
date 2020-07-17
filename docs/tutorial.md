@@ -29,7 +29,7 @@ addpath(genPath)
 
 Change your demo data path and name by assigning varibles ``filepath`` and ``fileName``.
 
-``` MATLAB
+``` Matlab
 %% get filename
 filepath = 'Z:\hanyaning\BehaviorAtlas_version_control\data\three_d';
 fileName = 'demo_single_Data3d.mat';
