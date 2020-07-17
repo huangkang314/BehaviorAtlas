@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Tutorials
-nav_order: 3
+title: Getting started
+nav_order: 4
 ---
 
 # Getting started
