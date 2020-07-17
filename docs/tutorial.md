@@ -25,11 +25,11 @@ genPath = genpath('./');
 addpath(genPath)
 ```
 
-### Define path of your data
+### Define the path of your data
 
 Change your demo data path and name by assigning varibles ``filepath`` and ``fileName``.
 
-``` Matlab
+``` 
 %% get filename
 filepath = 'Z:\hanyaning\BehaviorAtlas_version_control\data\three_d';
 fileName = 'demo_single_Data3d.mat';
@@ -37,7 +37,7 @@ fileName = 'demo_single_Data3d.mat';
 
 ### Change your demo video path and name of varibles ``videopath`` and ``videoName``.
 
-```MATLAB
+```
 %% get videoname
 videopath = 'Z:\hanyaning\BehaviorAtlas_version_control\data\videos';
 videoName = 'demo_single_Data3d.avi';
