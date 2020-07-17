@@ -57,18 +57,86 @@ Video2 | Decomposition demo of 15-minute experimental data collected in a featur
 
 We examined the video clips in each group, post-hoc manually labeled annotated as running, trotting, stepping, sniffing, rising, right turning, up stretching, falling, left turning, walking.   
 
-  <div class="row">
-    <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
-    <div class="col-sm-8" style="background-color:lavenderblush;">.col-sm-8</div>
-  </div>
+<table class="table">
+    <thead>
+      <tr>
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Email</th>
+        <th>Email</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+        <td>
+          <video width="20%" height = "auto" controls="controls">
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+          </video>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
-Video1 | <video width="20%" height = "auto" controls="controls">
-  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
-</video> 
 
-Video2 | <video width="20%" height = "auto" controls="controls">
-  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/2-running.mp4"></source>
-</video> 
 
 ---
 
