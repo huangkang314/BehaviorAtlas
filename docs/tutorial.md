@@ -25,7 +25,7 @@ genPath = genpath('./');
 addpath(genPath)
 ```
 
-### Define the path of your data
+### Define the data path
 
 Change your demo data path and name by assigning varibles ``filepath`` and ``fileName``.
 
@@ -35,7 +35,9 @@ filepath = 'Z:\hanyaning\BehaviorAtlas_version_control\data\three_d';
 fileName = 'demo_single_Data3d.mat';
 ```
 
-### Change your demo video path and name of varibles ``videopath`` and ``videoName``.
+### Define the video path
+
+Change your demo video path and name by assigning varibles ``videopath`` and ``videoName``. This step only 
 
 ```
 %% get videoname
