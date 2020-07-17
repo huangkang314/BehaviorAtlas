@@ -120,7 +120,7 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
           </video>
         </td>
         <td>
-          <video width="100%" height = "auto" controls preload="auto">
+          <video width="100%" height = "auto" controls>
             <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/9-trotting.mp4"></source>
           </video>
         </td>
