@@ -58,6 +58,7 @@ Video2 | Decomposition demo of 15-minute experimental data collected in a featur
 We examined the video clips in each group, post-hoc manually labeled annotated as running, trotting, stepping, sniffing, rising, right turning, up stretching, falling, left turning, walking.   
 
 <table class="table">
+</tbody>
       <tr>
         <th>Up stretching</th>
         <th>Running</th>
