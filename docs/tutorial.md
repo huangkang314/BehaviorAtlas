@@ -72,12 +72,11 @@ artifact_correction(method, WinWD);
 ```
 
 The raw data and preprocessed data in BeA struct are filtered by above method and are plotted below.  
-![0d899c3075bcd8e632cdf21b637868a0.svg+xml](en-resource://database/521:0)
+![0d899c3075bcd8e632cdf21b637868a0.svg+xml]
 
 #### 7. Body alignment. 
 
-```MATLAB
-%% Aanlysis  -> 1. body alignment
+```
 BA.Cen = 1;
 BA.VA = 1;
 BA.CenIndex = 13;
@@ -87,13 +86,14 @@ BA.SDSDimens = [40,41,42];
 body_alignment(BA);
 ```
 
-The function of ``body_alignment`` firstly aligns the back points of all the mice skeletons then it aligns the vector from the back point to the tail root point of all the mice skeletons. The alignment results are plotted below.
+The function of `body_alignment` firstly aligns the back points of all the mice skeletons then it aligns the vector from the back point to the tail root point of all the mice skeletons. The alignment results are plotted below.
 ![62cb508935249c88a338760f409c48e2.svg+xml](en-resource://database/527:0)
 
-###  Select the features for analysis. The variable ``selection``  is a 1x48 vector and indicate the selection time series of mice skeletion which are arranged as [X1,Y1,Z1,X2,Y2,Z2,...,Xn,Yn,Zn].
+###  Features Selection. 
 
-```MATLAB
-%% Aanlysis -> 2. Feature Selection
+The variable ``selection``  is a 1x48 vector and indicate the selection time series of mice skeletion which are arranged as [X1,Y1,Z1,X2,Y2,Z2,...,Xn,Yn,Zn].
+
+```
 body_parts = BeA.DataInfo.Skl;
 nBodyParts = length(body_parts);
 weight = ones(1, nBodyParts);
@@ -111,8 +111,9 @@ end
 BeA_DecParam.selection = selection;
 ```
 ### Behavior Decomposing. 
+This section defines two sets of of parameters corresponding to poses and movements decomposition respectively.
 
-``` MATLAB
+``` 
 %% Aanlysis -> Behavior Decomposing
 % BeA_SegParam.L1
 BeA_DecParam.L1.ralg = 'merge';
@@ -130,7 +131,7 @@ BeA_DecParam.L2.Ini = 'p'; % Initialization method
 behavior_decomposing(BeA_DecParam);
 ```
 
-Finally, the function of ``behavior_decomposing``  cuts the continuous time series of mice skeletion in poses and movements segments then clustering them in low demension embedding. The poses embedding (left) and movements embedding (right) are plotted below. More detail analysis could be found in our paper. 
+Finally, the function of `behavior_decomposing`  cuts the continuous time series of mice skeletion in poses and movements segments then clustering them in low demension embedding. The poses embedding (left) and movements embedding (right) are plotted below. More detail analysis could be found in our paper. 
 ![8323869fd6d085182d50ecfeb742f15f.svg+xml](en-resource://database/533:0)
 
 
