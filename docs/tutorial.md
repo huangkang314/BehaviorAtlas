@@ -45,7 +45,7 @@ videoName = 'demo_single_Data3d.avi';
 ```
 
 ### Import dataset
-Import the dataset by using the import_3d function
+Import the dataset by using the `import_3d` function
 
 ```
 global BeA
@@ -55,16 +55,17 @@ import_3d(data_3d_name);
 
 ### Import video information 
 
-Import video information by assigning variables `videopath` and `videoName`.
+Import video information by using the `import_video` function
 
 ```
 video_name = [videopath,'\',videoName];
 import_video(video_name);
 ```
 
-### Artifact correction of raw data. We prodive two default method ``'median filtering'`` and ``'adaptive median filtering'``  to simplify the preprocessing. The preprocessing functions that might be used are in the path of ``.\preprocess``, which could be flexibly added to ``artifact_correction`` function.
-```MATLAB
-%% Preprocess ->  Artifact Correction
+### Artifact correction 
+
+Correct the artificials of raw data. We prodive two default method `'median filtering'` and `'adaptive median filtering'`  to simplify the preprocessing. The preprocessing functions that might be used are in the path of `.\preprocess`, which could be flexibly added to `artifact_correction` function.
+```
 method = 'median filtering';
 WinWD = 1000; %ms
 artifact_correction(method, WinWD);
