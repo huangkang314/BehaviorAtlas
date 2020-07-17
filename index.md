@@ -70,7 +70,7 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       <tr>
         <td>
           <video width="100%" height = "auto" controls="controls">
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up stretching.mp4"></source>
+            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/1-up_stretching.mp4"></source>
           </video>
         </td>
         <td>
