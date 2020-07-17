@@ -59,8 +59,7 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
 
   <div class="row">
     <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
-    <div class="col-sm-4" style="background-color:lavenderblush;">.col-sm-4</div>
-    <div class="col-sm-4" style="background-color:lavender;">.col-sm-4</div>
+    <div class="col-sm-8" style="background-color:lavenderblush;">.col-sm-8</div>
   </div>
 
 Video1 | <video width="20%" height = "auto" controls="controls">
