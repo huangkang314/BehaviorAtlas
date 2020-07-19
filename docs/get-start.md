@@ -28,12 +28,14 @@ nav_order: 2
 - b. Download [Feng Zhou's](http://www.f-zhou.com/) [aca](https://github.com/zhfe99/aca) code, unZip the code to the folder `Behavior-Atlas\lib\`;
 - c. Make sure your Matlab has the UMAP toolbox, if not, please download(https://fr.mathworks.com/matlabcentral/fileexchange/71902-uniform-manifold-approximation-and-projection-umap) it and include it to your Matlab path.
 
+### Download demo data
+Go to [Data Resource](https://behavioratlas.netlify.app/docs/data-resource/) Download the demo dataset and its corresponding video. 
+
 
 ### Install
 - Run `make.m` to compile all C++ files;
 - Run `test.m` to verify the installation.
 
-### 
 
 
 
