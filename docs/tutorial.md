@@ -114,7 +114,7 @@ end
 BeA_DecParam.selection = selection;
 ```
 ### Behavior Decomposing
-This section defines two sets of of parameters corresponding to two layers (poses and movements) decomposition respectively.
+This section defines two sets of of parameters corresponding to two layers (poses and movements) decomposition respectively. This will take 5-10 minutes (depending on the performance of the computer).
 
 ``` 
 % BeA_SegParam.L1
