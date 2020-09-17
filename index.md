@@ -10,7 +10,7 @@ last_modified_date: 2020-07-15T17:54:08+0000
 # Behavior Atlas: 
 {: .fs-9 }
 
-[Get started now](https://behavioratlas.netlify.app/docs/get-start/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/huangkang314/Behavior-Atlas){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](https://behavioratlas.tech/docs/get-start/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [GitHub repository will be aviliable soon!](https://behavioratlas.tech/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Introdution
 Behavior Atlas is a spatio-temporal decomposition framework for automatically detecting behavioral phenotypes. It receives 3D/2D continuous multidimensional motion features data input, and unsupervisedly decompose it into understandable behavioral modules/movements (e.g., walking, running, rearing). Our framework emphasizes the extraction of the temporal dynamics of movements. Without making model assumptions, similar movements with various time durations and temporal variability can be efficiently detected. Besides the decomposition, the constructed self-similarity matrix of these movement segments describes the structure of involved movements. Further dimensionality reduction and visualization enable us construct the feature space of behavior. This helps us study the evolution of movement sequences for higher-order behavior and behavioral state transition caused by neural activity. 
@@ -28,11 +28,11 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
 
 Video1 | 3D reconstruction demo video, Download this video <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4" target="_blank">Video1-3D_Capture_and_recons_demo.mp4 (11.6MB)</a>
 
-![The pipeline of 3D animal skeletal reconstruction](https://behavioratlas.netlify.app/imgs/3Dpipeline.svg "Figure1") 
+![The pipeline of 3D animal skeletal reconstruction](https://github.com/huangkang314/BehaviorAtlas/tree/master/imgs/3Dpipeline.svg "Figure1") 
 
 Figure1 | The pipeline of 3D animal skeletal reconstruction. 
 
-![representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction](https://behavioratlas.netlify.app/imgs/3DskeletalTrace.png "Figure2") 
+![representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction](https://github.com/huangkang314/BehaviorAtlas/tree/master/imgs/3DskeletalTrace.png "Figure2") 
 
 Figure2 | Representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction. 
 
@@ -40,7 +40,7 @@ Figure2 | Representative (900s) mouse body tracking trace data showing with 48 d
 
 There are many similar previous works such as <a href="https://github.com/gordonberman/MotionMapper" target="_blank">MotionMapper</a>, <a href="http://datta.hms.harvard.edu/research/behavioral-analysis" target="_blank">Moseq</a> were used to detect stereotyped movement modules on flies or mice. Our framework focus on address the high-dimensionality and large temporal variability of rodent behavior. we adopted a parallel motion decomposition strategy following the natural characteristics of animal motion. That is, two-layer dynamic temporal decomposition is performed on the continuous animal skeleton postural data to obtain Non-locomotor movement (NM) space. Finally, together with locomotion dimension, unsupervised clustering is used to reveal the structure of behavior.
 
-![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://behavioratlas.netlify.app/imgs/fig1.svg "Figure3")
+![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://github.com/huangkang314/BehaviorAtlas/tree/master/imgs/fig1.svg "Figure3")
 
 Figure3 | Spatio-temporal decomposition framework for animal behavior analysis. 
 
@@ -166,6 +166,6 @@ Behavior Atlas is distributed by an [MIT license](https://en.wikipedia.org/wiki/
 ### Contributing
 
 
-#### XXX
+#### Kang Huang; Yaning Han, Pengfei Wei; Liping Wang
 
 
