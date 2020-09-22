@@ -26,13 +26,13 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
   Your browser does not support the video tag.
 </video>
 
-Video1 | 3D reconstruction demo video, Download this video <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4" target="_blank">Video1-3D_Capture_and_recons_demo.mp4 (11.6MB)</a>
+Video1 | 3D reconstruction demo video, Download this video <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4" target="_blank">Video1-3D_Capture_and_recons_demo.mp4 (6.91MB)</a>
 
-![The pipeline of 3D animal skeletal reconstruction](https://github.com/huangkang314/BehaviorAtlas/tree/master/imgs/3Dpipeline.svg "Figure1") 
+![The pipeline of 3D animal skeletal reconstruction](http://bcbdi.siat.ac.cn/BehaviorAtlas/3Dpipeline.svg "Figure1") 
 
 Figure1 | The pipeline of 3D animal skeletal reconstruction. 
 
-![representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction](https://github.com/huangkang314/BehaviorAtlas/tree/master/imgs/3DskeletalTrace.png "Figure2") 
+![representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction](http://bcbdi.siat.ac.cn/BehaviorAtlas/3DskeletalTrace.png "Figure2") 
 
 Figure2 | Representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction. 
 
@@ -40,7 +40,7 @@ Figure2 | Representative (900s) mouse body tracking trace data showing with 48 d
 
 There are many similar previous works such as <a href="https://github.com/gordonberman/MotionMapper" target="_blank">MotionMapper</a>, <a href="http://datta.hms.harvard.edu/research/behavioral-analysis" target="_blank">Moseq</a> were used to detect stereotyped movement modules on flies or mice. Our framework focus on address the high-dimensionality and large temporal variability of rodent behavior. we adopted a parallel motion decomposition strategy following the natural characteristics of animal motion. That is, two-layer dynamic temporal decomposition is performed on the continuous animal skeleton postural data to obtain Non-locomotor movement (NM) space. Finally, together with locomotion dimension, unsupervised clustering is used to reveal the structure of behavior.
 
-![Spatio-temporal decomposition framework for animal behavior analysis fig1](https://github.com/huangkang314/BehaviorAtlas/tree/master/imgs/fig1.svg "Figure3")
+![Spatio-temporal decomposition framework for animal behavior analysis fig1](http://bcbdi.siat.ac.cn/BehaviorAtlas/fig1.svg "Figure3")
 
 Figure3 | Spatio-temporal decomposition framework for animal behavior analysis. 
 
@@ -53,7 +53,7 @@ We demonstrate our framework in 15-minute experimental data collected in a featu
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
 </video>
 
-Video2 | Decomposition demo of 15-minute experimental data collected in a featureless circular open-filed <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4" target="_blank">Video2-decomposition_demo.mp4 (68.2MB)</a> (CQI: Clustering Quality Index helps us determine the stereotyped/non-stereotyped movements. CQI is evaluated by integrated  the intra-cluster and inter-cluster correlation coefficients. Larger CQI indicates more stereotyped movement segment)
+Video2 | Decomposition demo of 15-minute experimental data collected in a featureless circular open-filed <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4" target="_blank">Video2-decomposition_demo.mp4 (8.92MB)</a> (CQI: Clustering Quality Index helps us determine the stereotyped/non-stereotyped movements. CQI is evaluated by integrated  the intra-cluster and inter-cluster correlation coefficients. Larger CQI indicates more stereotyped movement segment)
 
 We examined the video clips in each group, post-hoc manually labeled annotated as running, trotting, stepping, sniffing, rising, right turning, up stretching, falling, left turning, walking.   
 
@@ -150,7 +150,7 @@ The 15-minute experimental data were decomposed into 936 NM bouts, and embedded 
   <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4"></source>
 </video>
 
-Video3 | Spatio-temporal feature space of behavioral components <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4" target="_blank">Video3-cluster_embeddings.mp4 (14.6MB)</a> 
+Video3 | Spatio-temporal feature space of behavioral components <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4" target="_blank">Video3-cluster_embeddings.mp4 (7.61MB)</a> 
 
 ---
 
@@ -166,6 +166,6 @@ Behavior Atlas is distributed by an [MIT license](https://en.wikipedia.org/wiki/
 ### Contributing
 
 
-#### Kang Huang; Yaning Han, Pengfei Wei; Liping Wang
+#### Kang Huang; Yaning Han, Ke Chen, Pengfei Wei; Liping Wang
 
 
