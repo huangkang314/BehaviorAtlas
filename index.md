@@ -28,11 +28,11 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
 
 Video1 | 3D reconstruction demo video, Download this video <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4" target="_blank">Video1-3D_Capture_and_recons_demo.mp4 (6.91MB)</a>
 
-![The pipeline of 3D animal skeletal reconstruction](http://bcbdi.siat.ac.cn/BehaviorAtlas/3Dpipeline.svg "Figure1") 
+![The pipeline of 3D animal skeletal reconstruction](./imgs/3Dpipeline.svg "Figure1") 
 
 Figure1 | The pipeline of 3D animal skeletal reconstruction. 
 
-![representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction](http://bcbdi.siat.ac.cn/BehaviorAtlas/3DskeletalTrace.png "Figure2") 
+![representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction](./imgs/3DskeletalTrace.png "Figure2") 
 
 Figure2 | Representative (900s) mouse body tracking trace data showing with 48 data vectors obtained by 3D reconstruction. 
 
@@ -40,7 +40,7 @@ Figure2 | Representative (900s) mouse body tracking trace data showing with 48 d
 
 There are many similar previous works such as <a href="https://github.com/gordonberman/MotionMapper" target="_blank">MotionMapper</a>, <a href="http://datta.hms.harvard.edu/research/behavioral-analysis" target="_blank">Moseq</a> were used to detect stereotyped movement modules on flies or mice. Our framework focus on address the high-dimensionality and large temporal variability of rodent behavior. we adopted a parallel motion decomposition strategy following the natural characteristics of animal motion. That is, two-layer dynamic temporal decomposition is performed on the continuous animal skeleton postural data to obtain Non-locomotor movement (NM) space. Finally, together with locomotion dimension, unsupervised clustering is used to reveal the structure of behavior.
 
-![Spatio-temporal decomposition framework for animal behavior analysis fig1](http://bcbdi.siat.ac.cn/BehaviorAtlas/fig1.svg "Figure3")
+![Spatio-temporal decomposition framework for animal behavior analysis fig1](./imgs/fig1.svg "Figure3")
 
 Figure3 | Spatio-temporal decomposition framework for animal behavior analysis. 
 
