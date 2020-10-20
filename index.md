@@ -68,7 +68,7 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       <tr>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/avi" src="./imgs/1-up_stretching.avi"></source>
+            <source type="video/mp4" src="./imgs/1-up_stretching.avi"></source>
           </video>
         </td>
         <td>
