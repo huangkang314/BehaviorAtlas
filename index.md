@@ -68,22 +68,22 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       <tr>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs1-up_stretching.mp4"></source>
+            <source type="video/mp4" src="./imgs/1-up_stretching.mp4"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs2-running.mp4"></source>
+            <source type="video/mp4" src="./imgs/2-running.mp4"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs3-rising.mp4"></source>
+            <source type="video/mp4" src="./imgs/3-rising.mp4"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs4-sniffing.mp4"></source>
+            <source type="video/mp4" src="./imgs/4-sniffing.mp4"></source>
           </video>
         </td>
       </tr>
@@ -96,22 +96,22 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       <tr>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs5-diving.mp4"></source>
+            <source type="video/mp4" src="./imgs/5-diving.mp4"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs6-right_turning.mp4"></source>
+            <source type="video/mp4" src="./imgs/6-right_turning.mp4"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs7-stepping.mp4"></source>
+            <source type="video/mp4" src="./imgs/7-stepping.mp4"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs8-falling.mp4"></source>
+            <source type="video/mp4" src="./imgs/8-falling.mp4"></source>
           </video>
         </td>
       </tr>
@@ -123,17 +123,17 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       <tr>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs9-trotting.mp4"></source>
+            <source type="video/mp4" src="./imgs/9-trotting.mp4"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs10-left_turning.mp4"></source>
+            <source type="video/mp4" src="./imgs/10-left_turning.mp4"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="./imgs11-walking.mp4"></source>
+            <source type="video/mp4" src="./imgs/11-walking.mp4"></source>
           </video>
         </td>
         <td> </td>
