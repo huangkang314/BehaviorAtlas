@@ -68,22 +68,22 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       <tr>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/1-up_stretching.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/1-up_stretching.avi"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/2-running.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/2-running.avi"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/3-rising.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/3-rising.avi"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/4-sniffing.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/4-sniffing.avi"></source>
           </video>
         </td>
       </tr>
@@ -96,22 +96,22 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       <tr>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/5-diving.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/5-diving.avi"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/6-right_turning.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/6-right_turning.avi"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/7-stepping.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/7-stepping.avi"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/8-falling.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/8-falling.avi"></source>
           </video>
         </td>
       </tr>
@@ -123,17 +123,17 @@ We examined the video clips in each group, post-hoc manually labeled annotated a
       <tr>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/9-trotting.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/9-trotting.avi"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/10-left_turning.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/10-left_turning.avi"></source>
           </video>
         </td>
         <td>
           <video width="100%" height = "auto" controls>
-            <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video_seg/11-walking.mp4"></source>
+            <source type="video/avi" src="./imgs/Video_seg/11-walking.avi"></source>
           </video>
         </td>
         <td> </td>
@@ -167,5 +167,10 @@ Behavior Atlas is distributed by an [MIT license](https://en.wikipedia.org/wiki/
 
 
 #### Kang Huang; Yaning Han, Ke Chen, Pengfei Wei; Liping Wang
+
+
+### Contact
+
+#### kang.huang@siat.ac.cn; pf.wei@siat.ac.cn.
 
 
