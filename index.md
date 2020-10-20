@@ -22,11 +22,11 @@ Behavior Atlas is a spatio-temporal decomposition framework for automatically de
 - c. Reconstructing 3D body skeleton by integrating these four data streams (based on <a href="https://github.com/SwathiSheshadri/pose3d" target="_blank">pose3d</a>).
 
 <video width="100%" height = "auto" controls="controls">
-  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4"></source>
+  <source type="video/mp4" src="./imgs/Video1-3D_Capture_and_recons_demo.mp4"></source>
   Your browser does not support the video tag.
 </video>
 
-Video1 | 3D reconstruction demo video, Download this video <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video1-3D_Capture_and_recons_demo.mp4" target="_blank">Video1-3D_Capture_and_recons_demo.mp4 (6.91MB)</a>
+Video1 | 3D reconstruction demo video, Download this video <a href="./imgs/Video1-3D_Capture_and_recons_demo.mp4" target="_blank">Video1-3D_Capture_and_recons_demo.mp4 (6.91MB)</a>
 
 ![The pipeline of 3D animal skeletal reconstruction](./imgs/3Dpipeline.svg "Figure1") 
 
@@ -50,10 +50,10 @@ Figure3 | Spatio-temporal decomposition framework for animal behavior analysis.
 We demonstrate our framework in 15-minute experimental data collected in a featureless circular open-filed. Thus, we obtained 11 types (determined by <a href="https://pubmed.ncbi.nlm.nih.gov/27818791" target="_blank">Bayesian Information Criterion</a> ) of movement. 
 
 <video width="100%" height = "auto" controls="controls">
-  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4"></source>
+  <source type="video/mp4" src="./imgs/Video2-decomposition_demo.mp4"></source>
 </video>
 
-Video2 | Decomposition demo of 15-minute experimental data collected in a featureless circular open-filed <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video2-decomposition_demo.mp4" target="_blank">Video2-decomposition_demo.mp4 (8.92MB)</a> (CQI: Clustering Quality Index helps us determine the stereotyped/non-stereotyped movements. CQI is evaluated by integrated  the intra-cluster and inter-cluster correlation coefficients. Larger CQI indicates more stereotyped movement segment)
+Video2 | Decomposition demo of 15-minute experimental data collected in a featureless circular open-filed <a href="./imgs/Video2-decomposition_demo.mp4" target="_blank">Video2-decomposition_demo.mp4 (8.92MB)</a> (CQI: Clustering Quality Index helps us determine the stereotyped/non-stereotyped movements. CQI is evaluated by integrated  the intra-cluster and inter-cluster correlation coefficients. Larger CQI indicates more stereotyped movement segment)
 
 We examined the video clips in each group, post-hoc manually labeled annotated as running, trotting, stepping, sniffing, rising, right turning, up stretching, falling, left turning, walking.   
 
@@ -147,10 +147,10 @@ The 15-minute experimental data were decomposed into 936 NM bouts, and embedded 
 - c. The combination of 2D NM space and motion dimension provide a 3D movements space representation.
 
 <video width="100%" height = "auto" controls="controls">
-  <source type="video/mp4" src="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4"></source>
+  <source type="video/mp4" src="./imgs/Video3-cluster_embeddings.mp4"></source>
 </video>
 
-Video3 | Spatio-temporal feature space of behavioral components <a href="http://bcbdi.siat.ac.cn/BehaviorAtlas/Video3-cluster_embeddings.mp4" target="_blank">Video3-cluster_embeddings.mp4 (7.61MB)</a> 
+Video3 | Spatio-temporal feature space of behavioral components <a href="./imgs/Video3-cluster_embeddings.mp4" target="_blank">Video3-cluster_embeddings.mp4 (7.61MB)</a> 
 
 ---
 
