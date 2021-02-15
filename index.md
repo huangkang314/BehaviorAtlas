@@ -158,7 +158,6 @@ Video3 | Spatio-temporal feature space of behavioral components <a href="./imgs/
 ## About the project
 
 
-
 ### License
 
 Behavior Atlas is distributed by an [MIT license](https://en.wikipedia.org/wiki/MIT_License).
