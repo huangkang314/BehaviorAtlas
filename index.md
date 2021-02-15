@@ -167,7 +167,6 @@ Behavior Atlas is distributed by an [MIT license](https://en.wikipedia.org/wiki/
 
 #### Kang Huang; Yaning Han, Ke Chen, Pengfei Wei; Liping Wang
 
-
 ### Contact
 
 #### kang.huang@siat.ac.cn; pf.wei@siat.ac.cn.
