@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 gem 'github-pages'
-gem install bundler -v 1.17.1
-gem uninstall bundler -v 2.2.9
-bundle update --bundler
+gem uninstall bundler -v ">= 2.0" 
+gem install bundler -v "< 2.0" 
+
+# Now you can use bundler as before
 bundle install
 gemspec
