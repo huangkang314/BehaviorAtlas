@@ -18,6 +18,6 @@ This data resource aims to create a behavioral data sharing community to promote
 ---
 
 ### Demo data 
-- The toolbox demo [dataset](http://bcbdi.siat.ac.cn/BehaviorAtlas/demo_Data3d.mat) and corresponding [video](http://bcbdi.siat.ac.cn/BehaviorAtlas/demo_Data3d.mp4) (featureless circular open-filed)
+- The toolbox demo [dataset](https://drive.google.com/file/d/17N9Y9YXUeF0bJlLWsblYfGk44ypvB_Qe/view?usp=sharing) and corresponding [video](https://drive.google.com/file/d/1bn3UBtGVIvYrfwGFaZlXf3yTFHGhngpj/view?usp=sharing) (featureless circular open-filed)
 
 
